@@ -43,9 +43,9 @@
 -  Do regular audits.
 -  Trust nothing scan everything i.g ZERO TRUST ARCHITECTURE.
 # Malware mitigation methods.
-1 Proactive preventions: MFA,user training,strong password,network segmention,Endpoint tools.
-2 Early detection: Antivirus,Monitoring,Behavioral analysis.
-3 Robust incident response plan: Isolate,analyze,wipe.
+- Proactive preventions: MFA,user training,strong password,network segmention,Endpoint tools.
+- Early detection: Antivirus,Monitoring,Behavioral analysis.
+- Robust incident response plan: Isolate,analyze,wipe.
 - # Social Engineering
 -Social engineering is psycological action did by attacker on victim to leak confidential info like password,OTP,personal details or to clik on malicious link or to open malicious email and gain unauthorized access to their machines.
 # Remedies on social Eng
