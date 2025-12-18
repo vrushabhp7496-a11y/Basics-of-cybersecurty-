@@ -16,11 +16,11 @@
 # Cybersecurity follows CIA triad to protect user data and ensure hasslefree data transfer through various servers.
 # What is Malware and Types of Malware:-
 # Malware:- It is malicious software designed by attacker to infect system and gain unauthorized access.
--All malware need user interaction to be excuted.
--Attacker can deliver malware to target machine or user by malicious link,by advertising,by phishing mail or by social enginering methods.
--Once malware file clicked and downloaded by user,attacker can gain full access to the target system.
--There are differnt types of malware and its mitigation,Defence methods avaliable we will discuss further.
-Some of the types of malware are 
+ -All malware need user interaction to be excuted.
+ -Attacker can deliver malware to target machine or user by malicious link,by advertising,by phishing mail or by social enginering methods.
+ -Once malware file clicked and downloaded by user,attacker can gain full access to the target system.
+ -There are differnt types of malware and its mitigation,Defence methods avaliable we will discuss further.
+## Some of the types of malware are 
  -Virus: A self hidng code designed to steal users data
  -Trojan: Disguises itself as desirable code i.g Emotet
  -worm: Spreds through network replicaating itself.
