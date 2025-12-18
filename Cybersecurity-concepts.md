@@ -15,7 +15,7 @@
 -Avalibilit:- Maintaining avalibility of data at any time for user ensuring security known as avalibility.
 # Cybersecurity follows CIA triad to protect user data and ensure hasslefree data transfer through various servers.
 # What is Malware and Types of Malware:-
-# Malware:- It is malicious software designed by attacker to infect system and gain unauthorized access.
+## Malware:- It is malicious software designed by attacker to infect system and gain unauthorized access.
   -All malware need user interaction to be excuted.
   -Attacker can deliver malware to target machine or user by malicious link,by advertising,by phishing mail or by social enginering methods.
   -Once malware file clicked and downloaded by user,attacker can gain full access to the target system.
