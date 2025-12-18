@@ -42,4 +42,28 @@ Some of the types of malware are
 9 Use Defence in Depth.
 10 Do regular audits.
 11 Trust nothing scan everything i.g ZERO TRUST ARCHITECTURE.
-
+# Malware mitigation methods.
+1 Proactive preventions: MFA,user training,strong password,network segmention,Endpoint tools.
+2 Early detection: Antivirus,Monitoring,Behavioral analysis.
+3 Robust incident response plan: Isolate,analyze,wipe.
+- # Social Engineering
+-Social engineering is psycological action did by attacker on victim to leak confidential info like password,OTP,personal details or to clik on malicious link or to open malicious email and gain unauthorized access to their machines.
+# Remedies on social Eng
+- The best remedy on social eng is to avoid such kind of fake scammers and avoid visiting unwanted websites and also be aware while visiting any website and think about clicking anywhere.
+# Fiirewall
+-Firewall is basic tool which act as network filtering between Web server and hosting machine.
+-It is rule based tool which works on rule set by default or modified rules.
+-It is network security system.
+-It contineously scans incoming and outgoing traffics for any malicious activity.
+# Use of firewall
+- Prevent unauthorized access.
+- Malicious traffic blocking.
+- Data privacy and control.
+- Policy Enforcement
+- Threat mitigation.
+# What is hardning
+- Hardning is the process of securing hardware,network,software,firmware by applying rules,access controls,security measures,various tools to avoid unauthorized access,unauthorized modification and unwanted breach.
+- # SOC
+- Security operation centre act as security incharge for any malicious activity or to prevent any malicious activity happens.
+- SOC uses different types of tools like SPLUNK,WIRESHAR,NMAP,to scan,capture the packets and to create alerts regarding to threat detected in the system.
+- 
