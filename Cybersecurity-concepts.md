@@ -31,17 +31,17 @@
  - Cryptojackers: Uses victims CPU GPU for cryptomining without knowing them 
  - Rootkits: Give victims device control to hackers i.g Zacinlo
  ## Common mitigation methods to avoid malware are
-   1  Avoid clicking unknowing mail links.
-   2  Avoid visiting unwanted and unsecured site.
-   3  Use strong antivirus.
-   4  Use strong Encryption algorithms.
-   5  Keep software updated to latest version.
-   6  Use strong passwords.
-   7  Use Multifactor authentications.
-   8 Configure Firewall.
-   9  Use Defence in Depth.
-  10  Do regular audits.
-  11  Trust nothing scan everything i.g ZERO TRUST ARCHITECTURE.
+- Avoid clicking unknowing mail links.
+- Avoid visiting unwanted and unsecured site.
+-  Use strong antivirus.
+-  Use strong Encryption algorithms.
+-  Keep software updated to latest version.
+-  Use strong passwords.
+-  Use Multifactor authentications.
+-  Configure Firewall.
+-  Use Defence in Depth.
+-  Do regular audits.
+-  Trust nothing scan everything i.g ZERO TRUST ARCHITECTURE.
 # Malware mitigation methods.
 1 Proactive preventions: MFA,user training,strong password,network segmention,Endpoint tools.
 2 Early detection: Antivirus,Monitoring,Behavioral analysis.
