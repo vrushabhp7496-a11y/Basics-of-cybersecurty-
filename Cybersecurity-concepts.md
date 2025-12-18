@@ -20,3 +20,13 @@
 -Attacker can deliver malware to target machine or user by malicious link,by advertising,by phishing mail or by social enginering methods.
 -Once malware file clicked and downloaded by user,attacker can gain full access to the target system.
 -There are differnt types of malware and its mitigation,Defence methods avaliable we will discuss further.
+Some of the types of malware are 
+-Virus: A self hidng code designed to steal users data
+-Trojan: Disguises itself as desirable code i.g Emotet
+-wworm: Spreds through network replicaating itself.
+-Ransomeware: Disable victimss access to data untill ransome is paid i.g RYUK
+-Spywrae: Collect user activity data without their knowledge i.g Darkhotel
+-Adware: Serves unwanted advertisments i.g fireball
+-Keyloggers: Monitors users keystrokes i.g olympic vision
+-Cryptojackers: Uses victims CPU GPU for cryptomining without knowing them 
+-Rootkits: Give victims device control to hackers i.g Zacinlo
